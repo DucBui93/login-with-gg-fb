@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an example for implement Google OAuth2 and NodeJs in server.
+You want to manage users who can login to use your application by role or something like that.
+It very simple and easy to understand, apply to your exist/new project.
+
 ## Available Scripts
 
 In the project directory, you can run:
